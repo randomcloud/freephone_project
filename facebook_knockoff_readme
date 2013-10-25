@@ -1,0 +1,59 @@
+=====================================
+
+FREEPHONE PROJECT'S FACEBOOK KNOCKOFF
+
+=====================================
+
+
+Ok. So according to RT, Facebook is now openly in cahoots
+with U.S. police to prevent and silence protest planning
+on Facebook:
+
+http://rt.com/usa/facebook-police-social-lipp-743/
+
+This Shall Not Stand. In response, we'll make our OWN
+Facebook! With BLACKJACK! AND HOOKERS!
+ 
+Please add any specs, concerns or wants you have for this
+project in this file. Or whatever. 
+
+
+=====================================
+
+THE BASICS
+
+=====================================
+
+
+It should work a lot like Facebook only instead of selling
+users' personal information to marketers, working with 
+police or governments, and generally disrespecting user 
+privacy in every way, it should work like this:
+
+- A person's page is either Private or Public. 
+
+- Private means there's only a whitelist of certain users
+that can access a person's page. 
+
+- To be able to access a person's page, you will need a 
+private encryption key from a user. A friend request
+will send the recipient a modal saying "So-and-so wants to 
+be your friend! Will you let them? Yes/No" and from there 
+the person whose page you wanna see will have to voluntarily 
+choose whether to let you in or not.
+
+- If they accept you'll be sent a public key. That public 
+key (or some other key. The point is that only certain 
+users can decrypt your stuff) is used to decrypt a page so 
+it's readable by a browser. 
+
+- The user themselves are given a private master key that
+only they can have, and they use that key and a password
+or something to log in. If they lose the key, they lose
+their page. It's strict but it'll prevent shenanigans.
+
+- If you remove someone from your list, their key for your
+page will no longer work and they can't see your stuff 
+even if they try to do so clandestinely. 
+
+-Public pages are, well, public.
